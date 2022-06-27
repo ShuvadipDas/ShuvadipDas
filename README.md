@@ -1,9 +1,7 @@
-# My Github Setup
+# Welcome to my Github
 
-**Readme File Setup :**
 
 ### **Hi there 👋**
-
 ### **This is Shuvadip Das!**
 
 <p>
